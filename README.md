@@ -1,10 +1,10 @@
-# Medutech Formulae
+# Medutech Homebrew Gstreamer 1.18.5 Formulae
 
 ## How do I install these formulae?
 
-`brew install medutech/formulae/<formula>`
+`brew install jurczo/formulae/<formula>`
 
-Or `brew tap medutech/formulae` and then `brew install <formula>`.
+Or `brew tap jurczo/formulae` and then `brew install <formula>`.
 
 ## Documentation
 
